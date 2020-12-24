@@ -1,0 +1,3 @@
+files:
+  - source: /source/*.txt
+    translation: /dmytro-translated/%two_letters_code%/*
